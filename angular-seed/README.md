@@ -1,0 +1,1 @@
+movieDB angular app from Building Single Page Web Apps with AngularJS tutorial

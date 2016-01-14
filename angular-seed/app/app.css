@@ -1,0 +1,65 @@
+
+body {
+  margin-top: 50px;
+}
+
+.section-title, .navbar-brand {
+  font-family: 'lobster', cursive;
+  font-weight: bold;
+  line-height: 1.1;
+  font-size: 26px;
+  margin-top: 0px;
+}
+
+.movie-container {
+  height: 250px;
+}
+
+.movie-thumb {
+  text-align: center;
+  color: black;
+}
+
+.movie-thumb h5 {
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+.movie-thumb:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+.thumbnail {
+  margin-bottom: 10px;
+  max-height: 200px;
+}
+
+.movieDetails .poster {
+  float: left;
+  margin-right: 20px;
+}
+
+.movieDetails .movie-title {
+  font-family: 'lobster', cursive;
+  font-size: 35px;
+  margin-top: 0px;
+}
+
+.movieDetails .btn-info {
+  margin-right: 5px;
+}
+
+.movieDetails .overview {
+  font-size: 17px;
+  margin: 15px 5px 15px 0px;
+}
+
+.movieDetails .return-link {
+  float: right;
+}
+
+.genre-title {
+  text-align: right;
+  margin-bottom: 10px;
+}
